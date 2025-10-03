@@ -72,5 +72,4 @@ Full Stack Web Developer | Java · PHP · JavaScript · React · Laravel
 🔗 GitHub: [github.com/IDelgadoSancho](https://github.com/IDelgadoSancho)  
 🔗 LinkedIn: [linkedin.com/in/ismael-delgado-sancho-bb144b216](https://linkedin.com/in/ismael-delgado-sancho-bb144b216)
 
-This project was developed as part of my training in Web Application Development (DAW).  
 Feel free to reach out or explore my other projects on GitHub!
