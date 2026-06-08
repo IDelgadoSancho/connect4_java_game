@@ -15,11 +15,7 @@
 
 ### Technologies used:
 
-- **JAVA**: A general-purpose, object-oriented programming language.
-
-- **VSC**: Visual Studio Code is a free, lightweight, cross-platform source code editor developed by Microsoft.
-
-- **GIT**: A distributed version control system designed to manage and track changes in a project over time.
+- **vanilla java**
 
 ---
 
@@ -60,16 +56,3 @@ If an invalid command is entered for “yes” or “no,” it will prompt again
 The winner message shows which player has won:
 
 ![alt text](img/image8.png)
-
----
-
-## 👨‍💻 About the Author
-
-**Ismael Delgado Sancho**  
-Full Stack Web Developer | Java · PHP · JavaScript · React · Laravel  
-📍 Based near Barcelona, Spain  
-📧 [ismaeldelgado117@gmail.com](mailto:ismaeldelgado117@gmail.com)  
-🔗 GitHub: [github.com/IDelgadoSancho](https://github.com/IDelgadoSancho)  
-🔗 LinkedIn: [linkedin.com/in/ismael-delgado-sancho-bb144b216](https://linkedin.com/in/ismael-delgado-sancho-bb144b216)
-
-Feel free to reach out or explore my other projects on GitHub!
